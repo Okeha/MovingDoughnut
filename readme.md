@@ -1,11 +1,17 @@
-# Three.js Starter
+# This project shows a rotating 3D Doughnut
+
+# YES I SAID A ROTATING DOUGHNUT LMAOO ;)
+
+# Three.js Boiler Plate
+
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
 ## Setup
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-``` bash
+```bash
 # Install dependencies (only the first time)
 npm install
 
